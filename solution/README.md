@@ -2,8 +2,8 @@
 
 
 ## Part I
-  1. Run the container image `infracloudio/csvserver:latest` in background and check if it's running.
-   notrunning with error as below: 
+  1. Running the container image `infracloudio/csvserver:latest` but it failed to startup with below error.
+ 
    ```console
    docker run --name csvserver infracloudio/csvserver:latest
    error while reading the file "/csvserver/inputdata": open /csvserver/inputdata: no such file or directory
@@ -40,6 +40,9 @@
    ```console
    docker ps
    ```
+   
+   ![ports](./prometheus/csvserver-port.png)
+
 
   6. As the requirement is to open the endpoint on port 9393, we need to bind the hostport:containerport using below commands.
 
@@ -54,6 +57,9 @@
    
    ```
    - The application is accessible on the host at http://localhost:9393.
+   
+   ![csvserver](./prometheus/csvserver-url.png)
+
 
    
   7. We need to setup the Set the environment variable `CSVSERVER_BORDER` to have value `Orange`.
@@ -68,6 +74,8 @@
      docker run -d -v $(pwd)/inputFile:/csvserver/inputdata -p 9393:9300 --env CSVSERVER_BORDER=orange infracloudio/csvserver:latest
      ```
      - The application is accessible on the host at http://localhost:9393. It will display Orange Border as expected.
+     - 
+     ![csvserver-orange-border](./prometheus/csvserver-orange-border.png)
 
 
    Do verify the `part-1-cmd` --> Final docker run command, `part-1-output` --> output file, `part-1-logs` --> logs File in the current directory as requested
@@ -86,6 +94,9 @@
      ```console
      docker compose up -d # to run the container ins detached mode
      ```
+     
+     The application is accessible on the host at http://localhost:9393.
+
 
   2. Once verified you can use the below command to kill the containers 
      ```console
@@ -115,12 +126,12 @@
      ```console
      docker compose up -d # to run the containers in detached mode
      ```
-     ![prom container status](./prom-running-containers.png)
+     ![prom container status](./prometheus/prom-running-containers.png)
      
   5. Prometheus is accessible at http://localhost:9090 on the host.
 
-     ![prometheus url](./Prom-url-output.png)
+     ![prometheus url](./prometheus/Prom-url-output.png)
 
   6. Type `csvserver_records` in the query box of Prometheus or check in the dorp-down box. Click on Execute and then switch to the Graph tab.
      It should show a straight line graph with value 10 (consider shrinking the time range to 5m).
-     ![prometheus solution](./Prom-Final-Solution.png)
+     ![prometheus solution](./prometheus/Prom-Final-Solution.png)
