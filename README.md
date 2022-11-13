@@ -1,5 +1,5 @@
 # The csvserver assignment
-https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_YWIwMjhiZTQtNDY0My00MTkyLTllOWMtM2M5NGQ4NDc1ZGE3%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522d52c9ea1-7c21-47b1-82a3-33a74b1f74b8%2522%252c%2522Oid%2522%253a%252290ef2a94-dd91-4d6d-80aa-2916526a4bfa%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=755278c2-19e0-4c4f-a2ab-5cc22bc02ec5&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
+
 ## Prerequisites
   - Read Docker orientation and setup: https://docs.docker.com/get-started/
   - Read Docker build and run your image: https://docs.docker.com/get-started/part2/
