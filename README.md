@@ -1,5 +1,7 @@
 # The csvserver assignment
 
+https://www.google.com/url?q=https://narvar.zoom.us/j/94280082559?pwd%3DOGdWNGtWditRYkZnMExnYUh0ek1nZz09&sa=D&source=calendar&ust=1668489571891369&usg=AOvVaw2iYnsY4G65XOuOGOW4Kpg5
+
 ## Prerequisites
   - Read Docker orientation and setup: https://docs.docker.com/get-started/
   - Read Docker build and run your image: https://docs.docker.com/get-started/part2/
