@@ -1,5 +1,5 @@
 # The csvserver assignment
-
+https://us05web.zoom.us/j/81845707205?pwd=Zmg1QVRnVFhPdmt5ZGtkT2trTytBQT09
 ## Prerequisites
   - Read Docker orientation and setup: https://docs.docker.com/get-started/
   - Read Docker build and run your image: https://docs.docker.com/get-started/part2/
