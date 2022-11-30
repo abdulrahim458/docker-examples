@@ -1,6 +1,9 @@
 # The csvserver assignment
 https://us05web.zoom.us/j/81845707205?pwd=Zmg1QVRnVFhPdmt5ZGtkT2trTytBQT09
 ## Prerequisites
+
+https://us05web.zoom.us/j/89776706732?pwd=OFNWWWV5M2lYYzhFNmhvb1N2QWM3QT09
+
   - Read Docker orientation and setup: https://docs.docker.com/get-started/
   - Read Docker build and run your image: https://docs.docker.com/get-started/part2/
   - Read Get started with Docker Compose: https://docs.docker.com/compose/gettingstarted/
