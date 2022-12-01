@@ -4,6 +4,8 @@ https://us05web.zoom.us/j/81845707205?pwd=Zmg1QVRnVFhPdmt5ZGtkT2trTytBQT09
 
 https://us05web.zoom.us/j/89776706732?pwd=OFNWWWV5M2lYYzhFNmhvb1N2QWM3QT09
 
+https://us06web.zoom.us/j/8678633167?pwd=UXRwaEc3eUptYXNmdkk0a05HVlJadz09
+
   - Read Docker orientation and setup: https://docs.docker.com/get-started/
   - Read Docker build and run your image: https://docs.docker.com/get-started/part2/
   - Read Get started with Docker Compose: https://docs.docker.com/compose/gettingstarted/
