@@ -3,7 +3,7 @@
 ## Prerequisites
 
 
-
+https://us06web.zoom.us/j/8678633167?pwd=UXRwaEc3eUptYXNmdkk0a05HVlJadz09
 
 
   - Read Docker orientation and setup: https://docs.docker.com/get-started/
