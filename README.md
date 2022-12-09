@@ -1,4 +1,4 @@
-# The csvserver assignment
+# The csvserver assignments
 
 ## Prerequisites
 
