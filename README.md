@@ -6,6 +6,9 @@
 https://us06web.zoom.us/j/8678633167?pwd=UXRwaEc3eUptYXNmdkk0a05HVlJadz09
 
 
+
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2M3MjBlODQtMjIzMS00NWFiLTgxNzgtZDcxMWE0M2NjZGJl%40thread.v2/0?context=%7b%22Tid%22%3a%22deff24bb-2089-4400-8c8e-f71e680378b2%22%2c%22Oid%22%3a%226c2d35e0-0a24-4712-ac8b-0a3bec2b256a%22%7d
+
   - Read Docker orientation and setup: https://docs.docker.com/get-started/
   - Read Docker build and run your image: https://docs.docker.com/get-started/part2/
   - Read Get started with Docker Compose: https://docs.docker.com/compose/gettingstarted/
