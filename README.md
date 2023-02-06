@@ -107,3 +107,6 @@ Once you have pushed your progress,
 
 - Add `anju-infracloud` and `rahul-infracloud` as collaborators to the repository.
 - Reply to the email with link to your repository / send an email to `anju [at] infracloud [dot] io`.
+
+
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDMwYWM2NDItZTU0OS00YzQyLTkzNjctODBhODVkNjM0ODkz%40thread.v2/0?context=%7b%22Tid%22%3a%22deff24bb-2089-4400-8c8e-f71e680378b2%22%2c%22Oid%22%3a%226c2d35e0-0a24-4712-ac8b-0a3bec2b256a%22%7d
