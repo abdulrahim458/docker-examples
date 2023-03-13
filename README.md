@@ -2,8 +2,8 @@
 
 ## Prerequisites
 
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmYxNTg3OGYtNDkwYS00YjhlLWJiMWEtMTU5NTM3MTc0NWUx%40thread.v2/0?context=%7b%22Tid%22%3a%22f1195e3a-584e-4eba-867f-030b6d4cffa9%22%2c%22Oid%22%3a%228f2a783a-94b8-4b83-8fb2-ff2b9f27c1ec%22%7d
 
-https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2RjMmI2ZDYtMDUxOS00MTcxLWEzODQtYmQ3MzFlYjJmZTkx%40thread.v2/0?context=%7b%22Tid%22%3a%22deff24bb-2089-4400-8c8e-f71e680378b2%22%2c%22Oid%22%3a%226c2d35e0-0a24-4712-ac8b-0a3bec2b256a%22%7d
 
 
   - Read Docker orientation and setup: https://docs.docker.com/get-started/
