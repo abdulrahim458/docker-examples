@@ -1,12 +1,9 @@
 # The csvserver assignment
 
-https://www.google.com/url?q=https://narvar.zoom.us/j/94280082559?pwd%3DOGdWNGtWditRYkZnMExnYUh0ek1nZz09&sa=D&source=calendar&ust=1668489571891369&usg=AOvVaw2iYnsY4G65XOuOGOW4Kpg5
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTQwMDc0NWYtYzY0NC00NDQxLWExODEtYzg4MjI3OTMyZjE3%40thread.v2/0?context=%7b%22Tid%22%3a%22f1195e3a-584e-4eba-867f-030b6d4cffa9%22%2c%22Oid%22%3a%223fa5a536-3360-4796-be8c-1b6ec96f6410%22%7d
 
 
 
-
-
-https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzZkY2Q2NjEtZjNhMi00ZDU1LTk5Y2QtY2FjMWRjMTk5YzUx%40thread.v2/0?context=%7b%22Tid%22%3a%22deff24bb-2089-4400-8c8e-f71e680378b2%22%2c%22Oid%22%3a%226c2d35e0-0a24-4712-ac8b-0a3bec2b256a%22%7d
 
 
 ## Prerequisites
